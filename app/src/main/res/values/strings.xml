@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyWeatherApplication</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_weather_info">WeatherInfoActivity</string>
+    <string name="EnterZipCode">Enter Zip Code</string>
+    <string name="BtnWeatherInfo">Click for Weather Info</string>
+</resources>
